@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "action-movie-poster-template-design-0f5fff6262fdefb855e3a9a3f0fdd361_screen.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

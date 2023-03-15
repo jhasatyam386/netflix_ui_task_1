@@ -13,6 +13,9 @@
 		D373A0BB1FF9ECEA00F7DD1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D373A0B91FF9ECEA00F7DD1D /* Main.storyboard */; };
 		D373A0BD1FF9ECEC00F7DD1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D373A0BC1FF9ECEC00F7DD1D /* Assets.xcassets */; };
 		D373A0C01FF9ECEC00F7DD1D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D373A0BE1FF9ECEC00F7DD1D /* LaunchScreen.storyboard */; };
+		D373A0C829C04AF300F7DD1D /* myCollectionViewCell1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D373A0C729C04AF300F7DD1D /* myCollectionViewCell1.swift */; };
+		D373A0CA29C04BCA00F7DD1D /* myCollectionViewCell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D373A0C929C04BCA00F7DD1D /* myCollectionViewCell2.swift */; };
+		D373A0CC29C04BE400F7DD1D /* myCollectionViewCell3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D373A0CB29C04BE400F7DD1D /* myCollectionViewCell3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		D373A0BC1FF9ECEC00F7DD1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D373A0BF1FF9ECEC00F7DD1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D373A0C11FF9ECEC00F7DD1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D373A0C729C04AF300F7DD1D /* myCollectionViewCell1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myCollectionViewCell1.swift; sourceTree = "<group>"; };
+		D373A0C929C04BCA00F7DD1D /* myCollectionViewCell2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myCollectionViewCell2.swift; sourceTree = "<group>"; };
+		D373A0CB29C04BE400F7DD1D /* myCollectionViewCell3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myCollectionViewCell3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +46,9 @@
 		D373A0A71FF9ECEA00F7DD1D = {
 			isa = PBXGroup;
 			children = (
+				D373A0CB29C04BE400F7DD1D /* myCollectionViewCell3.swift */,
+				D373A0C929C04BCA00F7DD1D /* myCollectionViewCell2.swift */,
+				D373A0C729C04AF300F7DD1D /* myCollectionViewCell1.swift */,
 				D373A0B21FF9ECEA00F7DD1D /* netflix_ui_task_1 */,
 				D373A0B11FF9ECEA00F7DD1D /* Products */,
 			);
@@ -138,7 +147,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D373A0C829C04AF300F7DD1D /* myCollectionViewCell1.swift in Sources */,
 				D373A0B81FF9ECEA00F7DD1D /* ViewController.swift in Sources */,
+				D373A0CC29C04BE400F7DD1D /* myCollectionViewCell3.swift in Sources */,
+				D373A0CA29C04BCA00F7DD1D /* myCollectionViewCell2.swift in Sources */,
 				D373A0B41FF9ECEA00F7DD1D /* AppDelegate.swift in Sources */,
 				D373A0B61FF9ECEA00F7DD1D /* SceneDelegate.swift in Sources */,
 			);
